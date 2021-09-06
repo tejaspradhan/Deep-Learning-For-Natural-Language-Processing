@@ -10,6 +10,8 @@ This repository contains an exhaustive set of Deep Learning projects specificall
 
 ## Datasets
 
+* Email Spam Dataset : https://github.com/tejaspradhan/Deep-Learning-For-Natural-Language-Processing/blob/main/E-mail%20_Spam_Classification_LSTM/spam.csv
+
 <br>
 
 ## How to contribute
